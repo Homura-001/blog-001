@@ -1,6 +1,6 @@
 ---
 title: NSSCTF-web方向第五页题解
-published: 2025-08-015
+published: 2025-08-15
 description: "NSSCTF-web"
 image: "./cover-5.jpg"
 tags: ["CTF"]
